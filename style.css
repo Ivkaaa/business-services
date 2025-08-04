@@ -130,7 +130,7 @@ footer{
 
 @media (min-width: 1200px) {
       header{
-            height: auto;
+            height: 7vh;
 
             .nav-manu{
                   text-transform: capitalize;
